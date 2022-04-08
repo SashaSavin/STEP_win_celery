@@ -1,3 +1,7 @@
+## :cherries: Django & Docker & Celery boilerplate :cherries:
+
+
+
 ## HOW TO RUN IT? :hear_no_evil:
 
 1) clone this project 
